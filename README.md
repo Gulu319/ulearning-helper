@@ -1,7 +1,7 @@
 # 优学院网课助手 (Ulearning Helper)
 
 > 适配 **优学院 (ulearning.cn)** 平台的 Tampermonkey / ScriptCat 用户脚本  
-> 版本：**v3.7** | 作者：Reasonix | 协议：MIT
+> 版本：**v3.7** | 作者：Gulu319 | 协议：MIT
 
 全自动刷课脚本——支持视频自动播放、题库匹配答题、自动翻页，内置防检测机制，模拟真人操作行为。
 
